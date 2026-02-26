@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=EgoistD&api_domain=waka.hackclub.com&custom_title=Hackatime%20Stats)   
 
