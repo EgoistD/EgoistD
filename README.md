@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=EgoistD&api_domain=waka.hackclub.com&custom_title=Hackatime%20Stats)   
+
 <!--
 **EgoistD/EgoistD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
